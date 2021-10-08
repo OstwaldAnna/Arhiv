@@ -1,0 +1,46 @@
+C:\Users\Оствальд\source\repos\arhivator\arhivator\bin\Debug\arhivator.exe.config
+C:\Users\Оствальд\source\repos\arhivator\arhivator\bin\Debug\arhivator.exe
+C:\Users\Оствальд\source\repos\arhivator\arhivator\bin\Debug\arhivator.pdb
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.csprojAssemblyReference.cache
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\MainWindow.g.cs
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\App.g.cs
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.cache
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.lref
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\MainWindow.baml
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.g.resources
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.Properties.Resources.resources
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.csproj.GenerateResource.cache
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.csproj.CoreCompileInputs.cache
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.exe
+C:\Users\Оствальд\source\repos\arhivator\arhivator\obj\Debug\arhivator.pdb
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\bin\Debug\arhivator.exe.config
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\bin\Debug\arhivator.exe
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\bin\Debug\arhivator.pdb
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.csprojAssemblyReference.cache
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\MainWindow.g.cs
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\App.g.cs
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.cache
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.lref
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\MainWindow.baml
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.g.resources
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.Properties.Resources.resources
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.csproj.GenerateResource.cache
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.csproj.CoreCompileInputs.cache
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.exe
+C:\Users\Asya\YandexDisk\колледж\ИТПСИС Макиевский\arhivator\arhivator\obj\Debug\arhivator.pdb
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\bin\Debug\arhivator.exe.config
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\bin\Debug\arhivator.exe
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\bin\Debug\arhivator.pdb
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.csproj.AssemblyReference.cache
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\MainWindow.g.cs
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\App.g.cs
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.cache
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator_MarkupCompile.lref
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\App.baml
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\MainWindow.baml
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.g.resources
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.Properties.Resources.resources
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.csproj.GenerateResource.cache
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.csproj.CoreCompileInputs.cache
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.exe
+C:\Users\Оствальд\Downloads\arhivator\arhivator\arhivator\obj\Debug\arhivator.pdb
